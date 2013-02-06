@@ -3,8 +3,6 @@
  */
 package br.com.decimal.tarantula.jfreechart;
 
-import java.awt.image.BufferedImage;
-
 import org.jfree.chart.JFreeChart;
 
 /**
